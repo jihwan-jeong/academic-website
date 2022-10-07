@@ -27,7 +27,7 @@ organizations:
     url: d3m.mie.utoronto.ca
 education:
   courses:
-    - course: Ph.D. in Industrial Engineering
+    - course: Ph.D. Candidate in Industrial Engineering
       institution: University of Toronto
       year: ""
     - course: M.S. in Industrial and Systems Engineering
@@ -42,6 +42,6 @@ highlight_name: true
 first_name: Alice
 email: jiihwan.jeong@gmail.com
 ---
-I﻿ am a Ph.D. candidate at University of Toronto working with Professor Scott Sanner. My research interest mainly lies in (offline) model-based reinforcement learning. 
+I am a Ph.D. candidate at University of Toronto working with Professor [Scott Sanner](d3m.mie.utoronto.ca). My research interest mainly lies in (offline) model-based reinforcement learning. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/cv_jihwan_jeong.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my <a href "static/uploads/cv_jihwan_jeong.pdf" title="CV" download>Download<\a>.
