@@ -1,9 +1,9 @@
 ---
-title: Example Project
+title: An Exact Symbolic Reduction of Linear Smart Predict+Optimize to Mixed Integer Linear Programming
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - SPO
+date: '2022-07-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

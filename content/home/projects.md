@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Offline RL
+      tag: Offline RL
+    - name: Smart Predict+Optimize
+      tag: SPO
+    - name: Planning
+      tag: Planning
+    - name: Continual Learning
+      tag: Continual Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -25,6 +25,8 @@ social:
 organizations:
   - name: University of Toronto
     url: https://d3m.mie.utoronto.ca
+  - name: Vector Institute
+    url: https://vectorinstitute.ai
 education:
   courses:
     - course: Ph.D. Candidate in Industrial Engineering
