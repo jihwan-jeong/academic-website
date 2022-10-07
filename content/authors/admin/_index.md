@@ -42,6 +42,6 @@ highlight_name: true
 first_name: Alice
 email: jiihwan.jeong@gmail.com
 ---
-I am a Ph.D. candidate at University of Toronto working with Professor [Scott Sanner](d3m.mie.utoronto.ca). My research interest mainly lies in (offline) model-based reinforcement learning. 
+I am a Ph.D. candidate at University of Toronto working with Professor [Scott Sanner](https://d3m.mie.utoronto.ca). My research interest mainly lies in (offline) model-based reinforcement learning. 
 
-{{< icon name="download" pack="fas" >}} Download my {{<a href "static/uploads/cv_jihwan_jeong.pdf" title="CV" download>Download</a>}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
