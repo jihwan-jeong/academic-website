@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/jihwan-jeong-5301ab183/
 organizations:
   - name: University of Toronto
-    url: d3m.mie.utoronto.ca
+    url: https://d3m.mie.utoronto.ca
 education:
   courses:
     - course: Ph.D. Candidate in Industrial Engineering
@@ -37,9 +37,9 @@ education:
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2015
 superuser: true
-last_name: Bighetti
+last_name: Jeong
 highlight_name: true
-first_name: Alice
+first_name: Jihwan
 email: jiihwan.jeong@gmail.com
 ---
 I am a Ph.D. candidate at University of Toronto working with Professor [Scott Sanner](https://d3m.mie.utoronto.ca). My research interest mainly lies in (offline) model-based reinforcement learning. 

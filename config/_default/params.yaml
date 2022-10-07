@@ -42,6 +42,7 @@ header:
 # Site footer
 
 footer:
+  widget: minimal
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
@@ -64,7 +65,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
