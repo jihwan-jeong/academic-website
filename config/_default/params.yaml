@@ -82,9 +82,9 @@ features:
       show_count: true
     commento:
       url: ''
-    giscus:
-      repo: ''
-      repo_id: ''
+    giscus:    # take a look at https://zhauniarovich.com/post/2021/2021-06-giscus/
+      repo: '' #academic-website
+      repo_id: '' #546979751
       category: ''
       category_id: ''
   search:
