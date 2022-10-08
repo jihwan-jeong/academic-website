@@ -4,7 +4,12 @@ role: Ph.D. Candidate at University of Toronto
 avatar_filename: avatar.jpg
 bio: My research interests include offline reinforcement learning, robust
   decision-making, meta-learning and Bayesian deep learning.
-interests: []
+interests:
+  - Offline reinforcement learning
+  - Model-based reinforcement learning
+  - Decision-making under uncertainty
+  - Robust decision-making
+  - Meta-learning
 social:
   - icon: envelope
     icon_pack: fas
