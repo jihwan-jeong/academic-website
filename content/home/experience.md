@@ -30,7 +30,7 @@ experience:
     date_start: '2022-06-01'
     date_end: '2022-09-30'
     description: |2-
-        Worked on a model-based offline reinforcement learning project (work to be submitted to ICML-23).
+        Worked with Professor [Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/) on a model-based offline reinforcement learning project (work to be submitted to ICML-23).
 
   - title: Research Intern
     company: LG AI Research
