@@ -3,7 +3,7 @@ title: A Distributional Framework for Risk-Sensitive End-to-End Planning in Cont
 summary: End-to-end planning framework for risk-sensitive planning under stochastic environments by backpropagating through a model of the environment.  The core idea is to use reparameterization of the state distribution, leading to a unique distributional perspective of end-to-end planning where the return distribution is utilized for sampling as well as optimizing risk-aware objectives by backpropagation in a unified framework.
 tags:
 - Planning
-date: "2022-01-27T00:00:00Z"
+date: "2022-06-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

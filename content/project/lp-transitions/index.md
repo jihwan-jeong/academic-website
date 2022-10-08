@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 url_code: ''
-url_pdf: https://ssanner.github.io/papers/ijcai21_sdplptrans.pdf
+url_pdf: 'https://www.ijcai.org/proceedings/2021/0562.pdf'
 url_slides: 'https://ijcai-21.org/videos-slides/?video=768'
 url_video: 'https://ijcai-21.org/videos-slides/?video=768'
 

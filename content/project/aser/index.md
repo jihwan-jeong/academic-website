@@ -1,6 +1,6 @@
 ---
 title: Online Class-Incremental Continual Learning with Adversarial Shapley Value (AAAI-21)
-summary: We use 
+summary: ''
 tags:
 - Continual Learning
 date: "2021-01-27T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2021-01-27T00:00:00Z"
 external_link: ''
 
 image:
-  caption: ""
+  caption: ''
   focal_point: Smart
 
 # links:

@@ -9,8 +9,8 @@ date: "2021-10-27T00:00:00Z"
 external_link: ''
 
 image:
-  caption: RAPTOR
-  alt_text: RAPTOR agents learn to avoid the dangerous zone in the middle
+  caption: Types of Continual Learning Problems
+  alt_text: ''
   focal_point: Smart
 
 url_code: ''
