@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Jihwan Jeong's Academic & Personal Webpage'
+    description: "Jihwan Jeong's Academic & Personal Webpage"
     twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: 'googlec4593516ac9986f3'
+    google: ''
     baidu: ''
 
 # Site header
