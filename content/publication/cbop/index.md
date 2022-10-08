@@ -34,7 +34,7 @@ tags:
   - Bayesian
   - Model-based value expansion
 
-featured: false
+featured: true
 
 # links:
 # - name: Custom Link
