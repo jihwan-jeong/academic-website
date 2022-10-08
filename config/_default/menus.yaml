@@ -16,6 +16,9 @@ main:
   - name: Highlights
     url: '#featured'
     weight: 40
+  - name: Gallery
+    url: '#gallery'
+    weight: 45  
   # - name: Posts
   #   url: '#posts'
   #   weight: 40
