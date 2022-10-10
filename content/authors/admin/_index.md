@@ -33,7 +33,7 @@ organizations:
     url: https://vectorinstitute.ai
 education:
   courses:
-    - course: Ph.D. Candidate in Industrial Engineering (Present)
+    - course: Ph.D. Candidate in Information Engineering (Present)
       institution: University of Toronto
       year: ""
     - course: M.S. in Industrial and Systems Engineering
