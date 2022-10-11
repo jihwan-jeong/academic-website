@@ -18,7 +18,7 @@ image:
 #     name: Paper
 #     url: https://arxiv.org/submit/4531177/view
 url_code: ''
-url_pdf: https://arxiv.org/submit/4531177/view
+url_pdf: https://arxiv.org/abs/2210.03802
 url_slides: ''
 url_video: ''
 
