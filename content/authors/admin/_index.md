@@ -52,4 +52,4 @@ Hi :smile:! &nbsp; I'm a Ph.D. candidate and a member of the D3M (**D**ata-**D**
 
 <!-- Before coming to Toronto, I worked with Professor [Hayong Shin](http://sal.kaist.ac.kr/) at KAIST.   -->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
