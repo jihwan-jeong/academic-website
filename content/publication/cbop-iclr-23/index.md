@@ -7,6 +7,11 @@ authors:
   - Hyunwoo Kim
   - Baher Abdulhai
   - Scott Sanner
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 date: "2023-01-20T00:00:00Z"
 doi: ""
 
