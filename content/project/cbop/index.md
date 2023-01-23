@@ -1,9 +1,9 @@
 ---
-title: Conservative Bayesian Model-Based Value Expansion for Offline Policy Optimization (under review)
+title: Conservative Bayesian Model-Based Value Expansion for Offline Policy Optimization (to appear at ICLR-23)
 summary: A model-based offline RL algorithm that is able to trade-off the uncertainty of the learned dynamics model with that of the value function through Bayesian posterior estimation, achieving state-of-the-art performance on a variety of D4RL benchmark tasks. 
 tags:
   - Offline RL
-date: '2022-10-04T00:00:00Z'
+date: '2023-01-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
