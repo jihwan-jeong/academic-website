@@ -48,7 +48,7 @@ highlight_name: true
 first_name: Jihwan
 email: jiihwan.jeong@gmail.com
 ---
-Welcome to my profile :smile:! &nbsp; candidate at the University of Toronto, contributing actively to the D3M (Data-Driven Decision-making) lab under the mentorship of Professor [Scott Sanner](https://d3m.mie.utoronto.ca). My interest in AI and ML is rooted in their potential to revolutionize decision-making in diverse areas. 
+Welcome to my profile :smile:! &nbsp; I'm a Ph.D. candidate at the University of Toronto, contributing actively to the D3M (Data-Driven Decision-making) lab under the mentorship of Professor [Scott Sanner](https://d3m.mie.utoronto.ca). My interest in AI and ML is rooted in their potential to revolutionize decision-making in diverse areas. 
 
 My research primarily focuses on leveraging models for enhanced decision-making, with a special emphasis on offline model-based reinforcement learning. This work includes a notable paper accepted at ICLR-23, which explores the use of Bayesian models for robust planning and policy learning by accounting for the epistemic uncertainty of models (learn more [here](project/cbop)).
 
