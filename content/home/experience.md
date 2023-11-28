@@ -39,7 +39,7 @@ experience:
     date_start: '2022-06-01'
     date_end: '2022-09-30'
     description: |2-
-        Worked with Professor [Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/) on a model-based offline reinforcement learning project.
+        Worked with Professor [Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/) on a model-based offline reinforcement learning project (under review).
 
   - title: Research Intern
     company: LG AI Research
@@ -48,7 +48,7 @@ experience:
     location: Seoul
     date_start: '2021-06-01'
     date_end: '2021-10-15'
-    description: Worked on a model-based offline reinforcement learning project (submitted to ICLR-23).
+    description: Worked on a model-based offline reinforcement learning project (ICLR-23).
 
   - title: Ph.D. Candidate (~present)
     company: University of Toronto
