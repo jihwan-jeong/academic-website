@@ -22,14 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Decision Support Systems (MIE451) 2022 Fall
+  - title: Introduction to Artificial Intelligence (MIE369)
+    company: ''
+    company_url: ''
+    company_logo: ''
+    location: University of Toronto
+    date_start: '2023-01-09'
+    date_end: '2022-04-14'
+    description: 'Course Instructor'
+
+  - title: Optimization in Machine Learning (MIE424)
+    company: ''
+    company_url: ''
+    company_logo: ''
+    location: University of Toronto
+    date_start: '2023-01-09'
+    date_end: '2022-04-14'
+    description: 'Teaching Assistant'
+
+- title: Decision Support Systems (MIE451) 2022 Fall
     company: ''
     company_url: ''
     company_logo: ''
     location: University of Toronto
     date_start: '2022-09-06'
     date_end: '2022-12-20'
-    description: '' #|2-
+    description: 'Teaching Assistant'
         
 
   - title: Introduction to Artificial Intelligence (MIE369)
@@ -39,7 +57,7 @@ experience:
     location: University of Toronto
     date_start: '2022-01-06'
     date_end: '2022-04-15'
-    description: ''
+    description: 'Teaching Assistant'
   
   - title: Introduction to Artificial Intelligence (MIE369)
     company: ''
@@ -48,7 +66,7 @@ experience:
     location: University of Toronto
     date_start: '2021-01-06'
     date_end: '2021-04-15'
-    description: ''
+    description: 'Teaching Assistant'
 
   - title: Introduction to Artificial Intelligence (MIE369)
     company: ''
@@ -57,7 +75,7 @@ experience:
     location: University of Toronto
     date_start: '2021-05-01'
     date_end: '2021-08-21'
-    description: ''
+    description: 'Teaching Assistant'
   
   - title: Optimization in Machine Learning (MIE424)
     company: ''
@@ -66,7 +84,7 @@ experience:
     location: University of Toronto
     date_start: '2020-01-06'
     date_end: '2020-04-21'
-    description: ''
+    description: 'Teaching Assistant'
   
   - title: Foundations of Data Analytics and Machine Learning (APS1070)
     company: ''
@@ -75,7 +93,8 @@ experience:
     location: University of Toronto
     date_start: '2019-09-06'
     date_end: '2019-12-21'
-    description: ''
+    description: 'Teaching Assistant'
+
 design:
   columns: '2'
 ---

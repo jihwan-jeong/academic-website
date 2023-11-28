@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Student Research Program
+    company: Google Research
+    company_url: https://research.google/
+    company_logo: org-google
+    location: Mountain View, CA, US (Remote)
+    date_start: '2023-06-19'
+    date_end: ''
+    description: Contributed to the submission of two papers, applying RLAIF to advance language models for personalized recommendations and contributing significantly to the development of the PAX pipeline.
+
   - title: Research Intern
     company: Vector Institute
     company_url: https://vectorinstitute.ai
@@ -30,7 +39,7 @@ experience:
     date_start: '2022-06-01'
     date_end: '2022-09-30'
     description: |2-
-        Worked with Professor [Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/) on a model-based offline reinforcement learning project (work to be submitted to ICML-23).
+        Worked with Professor [Pascal Poupart](https://cs.uwaterloo.ca/~ppoupart/) on a model-based offline reinforcement learning project.
 
   - title: Research Intern
     company: LG AI Research

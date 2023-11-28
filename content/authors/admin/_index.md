@@ -4,11 +4,10 @@ role: Ph.D. Candidate at University of Toronto
 avatar_filename: avatar.jpg
 bio: My research interests include offline reinforcement learning, model-based reinforcement learning, decision-aware model learning, meta-learning and Bayesian deep learning.
 interests:
-  - Offline reinforcement learning
-  - Model-based reinforcement learning
+  - Offline & model-based reinforcement learning
+  - Uncertainty quantification in neural networks
+  - RL for Large Language Models
   - Decision-aware model learning
-  - Meta-learning
-  - Bayesian deep learning
 social:
   - icon: envelope
     icon_pack: fas
