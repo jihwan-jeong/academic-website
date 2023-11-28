@@ -28,7 +28,7 @@ experience:
     company_logo: ''
     location: University of Toronto
     date_start: '2023-01-09'
-    date_end: '2022-04-14'
+    date_end: '2023-04-14'
     description: 'Course Instructor'
 
   - title: Optimization in Machine Learning (MIE424)
@@ -37,10 +37,10 @@ experience:
     company_logo: ''
     location: University of Toronto
     date_start: '2023-01-09'
-    date_end: '2022-04-14'
+    date_end: '2023-04-14'
     description: 'Teaching Assistant'
 
-- title: Decision Support Systems (MIE451) 2022 Fall
+  - title: Decision Support Systems (MIE451) 2022 Fall
     company: ''
     company_url: ''
     company_logo: ''
